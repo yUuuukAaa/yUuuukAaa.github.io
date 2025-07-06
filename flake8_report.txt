@@ -1,0 +1,53 @@
+test.py:1:12: E401 multiple imports on one line
+test.py:1:17: E703 statement ends with a semicolon
+test.py:3:1: E302 expected 2 blank lines, found 1
+test.py:4:5: E265 block comment should start with '# '
+test.py:4:80: E501 line too long (83 > 79 characters)
+test.py:5:15: E225 missing whitespace around operator
+test.py:5:17: E201 whitespace after '('
+test.py:5:21: E231 missing whitespace after ','
+test.py:5:26: E231 missing whitespace after ','
+test.py:5:31: E202 whitespace before ')'
+test.py:5:33: E703 statement ends with a semicolon
+test.py:6:18: E225 missing whitespace around operator
+test.py:6:26: E231 missing whitespace after ':'
+test.py:6:80: E501 line too long (84 > 79 characters)
+test.py:7:5: E128 continuation line under-indented for visual indent
+test.py:7:12: E231 missing whitespace after ':'
+test.py:7:26: E231 missing whitespace after ','
+test.py:7:30: E231 missing whitespace after ','
+test.py:7:34: E231 missing whitespace after ','
+test.py:7:45: E231 missing whitespace after ','
+test.py:7:80: E501 line too long (83 > 79 characters)
+test.py:8:5: E122 continuation line missing indentation or outdented
+test.py:8:11: E231 missing whitespace after ':'
+test.py:8:20: E231 missing whitespace after ':'
+test.py:8:65: E231 missing whitespace after ','
+test.py:8:76: E231 missing whitespace after ':'
+test.py:9:5: E128 continuation line under-indented for visual indent
+test.py:9:7: E231 missing whitespace after ','
+test.py:9:11: E231 missing whitespace after ','
+test.py:9:17: E231 missing whitespace after ','
+test.py:9:27: E231 missing whitespace after ','
+test.py:11:1: E302 expected 2 blank lines, found 0
+test.py:11:50: E231 missing whitespace after ':'
+test.py:11:69: E231 missing whitespace after ':'
+test.py:11:80: E501 line too long (85 > 79 characters)
+test.py:11:85: E703 statement ends with a semicolon
+test.py:12:1: E302 expected 2 blank lines, found 0
+test.py:12:16: E201 whitespace after '('
+test.py:12:25: E202 whitespace before ')'
+test.py:13:17: E211 whitespace before '('
+test.py:13:22: E201 whitespace after '('
+test.py:13:32: E202 whitespace before ')'
+test.py:14:6: E114 indentation is not a multiple of 4 (comment)
+test.py:14:6: E265 block comment should start with '# '
+test.py:15:6: E111 indentation is not a multiple of 4
+test.py:15:13: E701 multiple statements on one line (colon)
+test.py:15:18: E225 missing whitespace around operator
+test.py:15:21: E702 multiple statements on one line (semicolon)
+test.py:15:27: E225 missing whitespace around operator
+test.py:15:31: E225 missing whitespace around operator
+test.py:15:39: E702 multiple statements on one line (semicolon)
+test.py:16:6: E111 indentation is not a multiple of 4
+test.py:17:21: E117 over-indented
