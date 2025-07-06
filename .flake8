@@ -1,0 +1,4 @@
+[flake8]
+max-lime-length = 100
+exclude = .git,_pycache_,.venv
+extend-ignore = E203,W503
