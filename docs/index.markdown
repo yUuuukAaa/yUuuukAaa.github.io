@@ -9,3 +9,5 @@ tite: "ソフトウェア工学　2025"
 # ソフトウェア工学　2025
 
 git/github演習
+
+[softwareEng lecture Notes](softwareEng205.md)

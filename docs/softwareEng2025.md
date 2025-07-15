@@ -1,3 +1,8 @@
+---
+layout: page
+title: "software Eng. lecture note
+permalink: /docs/software2025
+---
 ＜ソフトウェア工学　第1回～第6回まとめ＞
 
 #第1回　ガイダンス
